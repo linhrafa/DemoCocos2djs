@@ -3,7 +3,7 @@ STATE_PLAYING = 0;
 STATE_GAMEOVER = 1;
 MAX_CONTAINT_WIDTH = 40;
 MAX_CONTAINT_HEIGHT = 40;
-
+var list_enemy = [];
 var enemy_scale = 0.05;
 var bg_color;
 var gameLayer;
@@ -26,7 +26,7 @@ var gameScene = cc.Scene.extend({
 var game = cc.Layer.extend({
     init: function () {
         this._super();
-
+        console.log("list_enemy.length" + list_enemy.length);
         bg_color = cc.LayerColor.create(new cc.Color(40, 40, 40, 255), 960, 640);
         var background = cc.Sprite.create(gameResources.bg_front_spacedust);
         this.addChild(bg_color);
@@ -35,12 +35,12 @@ var game = cc.Layer.extend({
         ship = new Ship();
         this.addChild(ship);
 
-        this.createEnemy();
+        //this.createEnemy();
         //enemy = new Enemy();
         //this.addChild(enemy);
 
         this.scheduleUpdate();
-        //this.schedule(this.createOrloadEnemy, 0.5);
+        this.schedule(this.createOrloadEnemy, 3);
 
 
         this.addKeyboardListener();
@@ -63,20 +63,40 @@ var game = cc.Layer.extend({
             }, this);
         }
     },
+    createOrloadEnemy: function () {
+        var count = 0, j=0;
+        while (count<3 && list_enemy.length>j){
+            if (list_enemy[j].isActive ==false) {
+                var enemy = list_enemy[j];
+                enemy.x = 900;
+                enemy.y= 100+500*Math.random();
+                enemy.isActive = true;
+                var moveAction = cc.MoveTo.create(2.5,new cc.p(-100, Math.random()* 600));
+                enemy.runAction(moveAction);
+                count++;
+            }
+            j++;
+            console.log("jjjjjjjjjj"+j);
+        }
+        while (count<3){
+            this.createEnemy();
+            count++;
+        }
+        cc.log("list_enemy.length" + list_enemy.length);
+    }
+    ,
     createEnemy:function(){
         //console.log("create enemy");
-        for (var i=0; i<number_enemy_init;i++) {
+        //for (var i=0; i<number_enemy_init;i++) {
             var enemy = new Enemy();
             this.addChild(enemy);
+            list_enemy.push(enemy);
+            console.log("list_enemy.length" + list_enemy.length);
             //enemy_run(1);
 
-        }
+        //}
 
     },
-    loadEnemy:function(){
-
-    },
-
 
 }, this);
 
@@ -88,7 +108,7 @@ Ship = cc.Sprite.extend({
         this._super();
         this.ySpeed = 0;
         var size = cc.winSize;
-        var image_ship = cc.Sprite.create(gameResources.ship);
+        var image_ship = cc.Sprite.create(gameResources.star);
         image_ship.setScale(0.05);
         this.addChild(image_ship);
     },
@@ -99,7 +119,7 @@ Ship = cc.Sprite.extend({
         //this.y += this.ySpeed;
         //this.ySpeed += gravity;
         this.updateMove(dt);
-
+        this.updateShot();
     },
 
     updateMove: function(dt){
@@ -116,6 +136,28 @@ Ship = cc.Sprite.extend({
             this.x += this.speed;
 
         }
+    },
+    updateShot: function(dt){
+        if ((MW.KEYS[cc.KEY.q] || MW.KEYS[cc.KEY.space])) {
+            this.addShot();
+
+        }
+    },
+
+    addShot: function(){
+        console.log("add Shot");
+        var shot1,shot2,shot3,shot4,shot5;
+
+        shot1 = cc.Sprite.create(gameResources.shot);
+        shot1.attr({
+            anchorX: this.x,
+            anchorY: this.y,
+            x: this.x,
+            y:this.y,
+            scale:0.04,
+
+        })
+        this.addChild(shot1);
     }
 
 
@@ -127,3 +169,17 @@ function restartGame(){
 
 }
 
+Shot = cc.Sprite.extend({
+    ctor: function () {
+        this._super();
+        var shot = cc.Sprite.create(gameResources.shot);
+        //shot.setScale(0.3);
+        this.addChild(shot);
+        //this.scheduleUpdate();
+    }
+    ,
+    update: function (dt) {
+        this.x+= 0.5;
+
+    },
+})
