@@ -48,6 +48,7 @@ var game = cc.Layer.extend({
     },
     update: function (dt) {
         ship.update();
+        //updateShot();
 
     },
     addKeyboardListener: function () {
@@ -97,6 +98,9 @@ var game = cc.Layer.extend({
         //}
 
     },
+    updateShot:function(){
+        //for
+    }
 
 }, this);
 
@@ -109,6 +113,13 @@ Ship = cc.Sprite.extend({
         this.ySpeed = 0;
         var size = cc.winSize;
         var image_ship = cc.Sprite.create(gameResources.star);
+        image_ship.attr({
+            //anchorX: this.anchorX,
+            //anchorY: this.anchorY,
+            //x: this.x,
+            //y: this.y,
+
+        })
         image_ship.setScale(0.05);
         this.addChild(image_ship);
     },
@@ -137,24 +148,20 @@ Ship = cc.Sprite.extend({
 
         }
     },
-    updateShot: function(dt){
-        if ((MW.KEYS[cc.KEY.q] || MW.KEYS[cc.KEY.space])) {
-            this.addShot();
 
-        }
-    },
+
 
     addShot: function(){
-        console.log("add Shot");
+        //console.log("add Shot");
         var shot1,shot2,shot3,shot4,shot5;
-
-        shot1 = cc.Sprite.create(gameResources.shot);
+        console.log("lap lai ne");
+        shot1 = new Shot();
         shot1.attr({
-            anchorX: this.x,
-            anchorY: this.y,
-            x: this.x,
-            y:this.y,
-            scale:0.04,
+            anchorX: 0,
+            anchorY: 0,
+            x: 0,
+            y:0,
+            scale:0.01,
 
         })
         this.addChild(shot1);
@@ -168,18 +175,3 @@ function restartGame(){
     ship.y = 300;
 
 }
-
-Shot = cc.Sprite.extend({
-    ctor: function () {
-        this._super();
-        var shot = cc.Sprite.create(gameResources.shot);
-        //shot.setScale(0.3);
-        this.addChild(shot);
-        //this.scheduleUpdate();
-    }
-    ,
-    update: function (dt) {
-        this.x+= 0.5;
-
-    },
-})
