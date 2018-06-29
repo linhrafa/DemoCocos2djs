@@ -87,4 +87,4 @@ cc.game.onStart = function(){
     }, this);
 };
 
-cc.gam();
+cc.game.run();

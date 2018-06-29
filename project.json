@@ -12,6 +12,7 @@
         "src/config/gameConfig.js",
         "src/Resource.js",
         "src/App.js",
-        "src/Enemy.js"
+        "src/Enemy.js",
+        "src/Shot.js"
     ]
 }

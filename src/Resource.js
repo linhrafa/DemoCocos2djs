@@ -8,6 +8,8 @@ var gameResources = {
 
     ship: "Resources/Ship/my_ship.png",
     enemy_ship: "Resources/Ship/enemy_ship.png",
+    star: "Resources/Ship/star.jpg",
+    shot: "Resources/Ship/ball.jpg",
 };
 var res = {
     bgMusic_mp3 : 'res/Music/bgMusic.mp3',

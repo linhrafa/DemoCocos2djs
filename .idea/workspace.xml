@@ -1,147 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4d55f2b-12a8-484d-a811-f49e89a3e91c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Fonts/Arial.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/android/HelloJavascript-debug.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Sounds/SpaceGame.caf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Spritesheets/Sprites.pvr.ccz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/arial-14.GlyphProject" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/arial-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/fonts/arial.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/b01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/bgMusic.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/bgMusic.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/bgMusic.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Backgrounds/bg_front_spacedust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Backgrounds/bg_galaxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Backgrounds/bg_planetsunrise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Backgrounds/bg_spacialanomaly.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Backgrounds/bg_spacialanomaly2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/buttonEffet.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/buttonEffet.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/buttonEffet.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/cocos2d-html5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/explodeEffect.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/explodeEffect.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/explodeEffect.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/explosion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Sounds/explosion_large.caf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Sounds/explosion_small.caf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/fireEffect.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/fireEffect.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/fireEffect.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/flare.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/gameOver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/gameoverBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsb.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Sounds/laser_enemy.caf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Sounds/laser_ship.caf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/loading.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/logoBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/mainMainMusic.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/mainMainMusic.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/mainMainMusic.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/menuTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Sounds/powerup.caf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Sounds/shake.caf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/shipDestroyEffect.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/shipDestroyEffect.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Music/shipDestroyEffect.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/textureOpaquePack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/textureTransparentPack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cocos-project.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Fonts/Arial.fnt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Classes/CCParallaxNode-Extras.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Classes/CCParallaxNode-Extras.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/DevToolsUtils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Enemy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/GSN.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloJavascript.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/KienVN.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Spritesheets/Sprites.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Particles/Stars1.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Particles/Stars2.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Particles/Stars3.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/action-1.x.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/action-2.x.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/arial-14.fnt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/b01.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/compatible.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/explosion.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/gameConfig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_audioengine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_boot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_create_apis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_property_apis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_property_impls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/chipmunk/jsb_chipmunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/chipmunk/jsb_chipmunk_constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_cocos2d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/3d/jsb_cocos2d_3d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/3d/jsb_cocos2d_3d_ext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_cocos2d_constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/extension/jsb_cocos2d_extension.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_cocos2d_studio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_cocos2d_ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_cocosbuilder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_create_apis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_debugger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/extension/jsb_ext_create_apis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/extension/jsb_ext_property_apis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_loaders.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/navmesh/jsb_navmesh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_opengl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_opengl_constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/physics3d/jsb_physics3d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/physicsSprite/jsb_physicsSprite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_pool.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_prepare.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_property_apis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_property_impls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_spine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_boot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_create_apis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_property_apis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jslist CMD.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/level01.tmx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/core/promise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/actors/root.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/scene-1.x.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/actors/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/textureOpaquePack.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/textureTransparentPack.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/timelineParser-1.x.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/timelineParser-2.x.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/transport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/uiParser-1.x.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/version.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="e4d55f2b-12a8-484d-a811-f49e89a3e91c" name="Default" comment="2906">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Shot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Enemy.js" afterPath="$PROJECT_DIR$/src/Enemy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Resource.js" afterPath="$PROJECT_DIR$/src/Resource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/config/gameConfig.js" afterPath="$PROJECT_DIR$/src/config/gameConfig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.json" afterPath="$PROJECT_DIR$/project.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HelloJavascript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -177,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -188,18 +56,28 @@
       <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state vertical-scroll-proportion="-20.26923">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
+      <file leaf-file-name="Shot.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Shot.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".cocos-project.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.cocos-project.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -209,17 +87,20 @@
         <entry file="file://$PROJECT_DIR$/src/Enemy.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="25" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+              <folding>
+                <marker date="1530258099003" expanded="true" signature="53:243" placeholder="{...}" />
+                <marker date="1530258099003" expanded="true" signature="816:827" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="project.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16831683">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -229,17 +110,17 @@
         <entry file="file://$PROJECT_DIR$/src/config/gameConfig.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Resource.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Resource.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Resource.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.23545706">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -271,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/TestNotification.js" />
-        <option value="$PROJECT_DIR$/src/network/GameClientListener.js" />
         <option value="$PROJECT_DIR$/src/gui/screen/Bonus/LayerGoldSupportLimit.js" />
         <option value="$PROJECT_DIR$/src/social/NotificationMgr.js" />
         <option value="$PROJECT_DIR$/src/game/render/3d/DiceRoll.js" />
@@ -317,11 +196,13 @@
         <option value="$PROJECT_DIR$/src/GameLayer.js" />
         <option value="$PROJECT_DIR$/Resources/Spritesheets/Sprites.plist" />
         <option value="$PROJECT_DIR$/Resources/config/gameConfig.js" />
-        <option value="$PROJECT_DIR$/src/Resource.js" />
-        <option value="$PROJECT_DIR$/project.json" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/Enemy.js" />
         <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/src/config/gameConfig.js" />
+        <option value="$PROJECT_DIR$/project.json" />
+        <option value="$PROJECT_DIR$/src/Enemy.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/Shot.js" />
+        <option value="$PROJECT_DIR$/src/Resource.js" />
       </list>
     </option>
   </component>
@@ -344,9 +225,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-74" />
-    <option name="y" value="132" />
-    <option name="width" value="1049" />
+    <option name="x" value="36" />
+    <option name="y" value="9" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -363,7 +244,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -374,185 +255,7 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spritesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ship" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Particles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Fonts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Backgrounds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.TemplateLanguageModulesConfigurable" />
@@ -983,6 +686,14 @@
       <workItem from="1529632132227" duration="9778000" />
       <workItem from="1529642068506" duration="14369000" />
       <workItem from="1529663215968" duration="212000" />
+      <workItem from="1530010684035" duration="149000" />
+      <workItem from="1530010870962" duration="814000" />
+      <workItem from="1530012130222" duration="5551000" />
+      <workItem from="1530100341462" duration="3761000" />
+      <workItem from="1530255953898" duration="3802000" />
+      <workItem from="1530261716221" duration="319000" />
+      <workItem from="1530263450672" duration="5000" />
+      <workItem from="1530268443707" duration="184000" />
     </task>
     <task id="LOCAL-00001" summary="enemyship">
       <created>1529652349380</created>
@@ -990,11 +701,23 @@
       <option name="project" value="LOCAL" />
       <updated>1529652349380</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2606">
+      <created>1530017697510</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530017697510</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2606">
+      <created>1530104145913</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530104145913</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1648245000" />
+    <option name="totallyTimeSpent" value="1662830000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1006,19 +729,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-74" y="132" width="1049" height="1056" extended-state="0" />
+    <frame x="36" y="9" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22941822" sideWeight="0.4892704" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40971488" sideWeight="0.7918455" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20802534" sideWeight="0.8140625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284055" sideWeight="0.49580714" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284055" sideWeight="0.49580714" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24491772" sideWeight="0.4945946" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13072917" sideWeight="0.4945946" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24921136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1029,20 +752,20 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27666315" sideWeight="0.31419623" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2764884" sideWeight="0.31203008" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40971488" sideWeight="0.2081545" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20802534" sideWeight="0.1859375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497309" sideWeight="0.28969505" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25976768" sideWeight="0.6509434" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20802534" sideWeight="0.8098958" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1050,17 +773,18 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24921136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27666315" sideWeight="0.3186583" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2764884" sideWeight="0.31203008" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22941822" sideWeight="0.4892704" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21330518" sideWeight="0.096960165" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1797694" sideWeight="0.4945946" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25976768" sideWeight="0.3490566" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20802534" sideWeight="0.19010417" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284055" sideWeight="0.49580714" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13072917" sideWeight="0.4945946" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497309" sideWeight="0.28969505" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1719243" sideWeight="0.5054054" order="3" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -1076,8 +800,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <MESSAGE value="enemyship" />
-    <option name="LAST_COMMIT_MESSAGE" value="enemyship" />
+    <MESSAGE value="2606" />
+    <option name="LAST_COMMIT_MESSAGE" value="2606" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1104,7 +830,7 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="185" />
+      <option name="time" value="186" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1113,6 +839,41 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Enemy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1530258099003" expanded="true" signature="53:243" placeholder="{...}" />
+            <marker date="1530258099003" expanded="true" signature="816:827" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/gameConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1143,7 +904,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="25" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1530258099003" expanded="true" signature="53:243" placeholder="{...}" />
+            <marker date="1530258099003" expanded="true" signature="816:827" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1222,13 +986,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Spritesheets/Sprites.plist">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
@@ -1274,13 +1038,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Spritesheets/Sprites.plist">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
@@ -1373,13 +1137,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.cocos-project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Backgrounds/bg_spacialanomaly2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1406,13 +1163,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Spritesheets/Sprites.plist">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Ship/enemy_ship.png">
@@ -1420,10 +1177,21 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Resource.js">
+    <entry file="file://$PROJECT_DIR$/src/Enemy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="14" />
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <marker date="1530258099003" expanded="true" signature="53:243" placeholder="{...}" />
+            <marker date="1530258099003" expanded="true" signature="816:827" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1431,23 +1199,7 @@
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/config/gameConfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Enemy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <caret line="164" column="31" selection-start-line="164" selection-start-column="31" selection-end-line="164" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1455,7 +1207,7 @@
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -1464,16 +1216,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        <state vertical-scroll-proportion="-20.26923">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
+    <entry file="file://$PROJECT_DIR$/src/Shot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16831683">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cocos-project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/gameConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23545706">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           <folding />
         </state>
       </provider>

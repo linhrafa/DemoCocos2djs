@@ -3,6 +3,7 @@ STATE_PLAYING = 0;
 STATE_GAMEOVER = 1;
 MAX_CONTAINT_WIDTH = 40;
 MAX_CONTAINT_HEIGHT = 40;
+var bullets = [];
 var list_enemy = [];
 var enemy_scale = 0.05;
 var bg_color;
@@ -39,14 +40,14 @@ var game = cc.Layer.extend({
         //enemy = new Enemy();
         //this.addChild(enemy);
 
-        this.scheduleUpdate();
+        this.schedule(this.updateeeee);
         this.schedule(this.createOrloadEnemy, 3);
 
 
         this.addKeyboardListener();
 
     },
-    update: function (dt) {
+    updateeeee: function (dt) {
         ship.update();
         //updateShot();
 
@@ -131,6 +132,7 @@ Ship = cc.Sprite.extend({
         //this.ySpeed += gravity;
         this.updateMove(dt);
         this.updateShot();
+
     },
 
     updateMove: function(dt){
@@ -148,23 +150,30 @@ Ship = cc.Sprite.extend({
 
         }
     },
-
+    updateShot:function(){
+        if ((MW.KEYS[cc.KEY.w] || MW.KEYS[cc.KEY.space])) {
+            this.addShot();
+        }
+    },
 
 
     addShot: function(){
         //console.log("add Shot");
         var shot1,shot2,shot3,shot4,shot5;
         console.log("lap lai ne");
-        shot1 = new Shot();
-        shot1.attr({
-            anchorX: 0,
-            anchorY: 0,
-            x: 0,
-            y:0,
-            scale:0.01,
+        for (var i=0;i<5;i++){
+            shot1 = new Shot(i);
+            //bullets.push(shot1);
+            shot1.attr({
+                anchorX: this.anchorX,
+                anchorY: this.anchorY,
+                x: this.x,
+                y: this.y,
+                scale:0.01,
 
-        })
-        this.addChild(shot1);
+            })
+            this.getParent().addChild(shot1);
+        }
     }
 
 
