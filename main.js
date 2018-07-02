@@ -75,6 +75,7 @@
  }
  *
  */
+var gv = gv || {};
 
 cc.game.onStart = function(){
 
@@ -83,6 +84,7 @@ cc.game.onStart = function(){
     cc.director.setProjection(cc.Director.PROJECTION_2D);
     //load resources
     cc.LoaderScene.preload(gameResources, function () {
+        gv.gameClient = new GameClient();
         cc.director.runScene(new gameScene());
     }, this);
 };

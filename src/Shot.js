@@ -12,9 +12,18 @@ var Shot = cc.Sprite.extend({
     }
     ,
     update: function () {
-        console.log("i ="+this.i);
+        if (this.x<0 || this.y<0 || this.x >960 || this.y>650) {
+            this.getParent().removeShot(this);
+            number_shot--;
+            console.log("number_shot = "+number_shot);
+        }
+        var x,y;
+
+        //console.log("y ="+this.y);
         x = this.x;
         y = this.y;
+        //this.addChild(x);
+        //this.addChild(y);
         //this.x= x+5;
 
         switch (this.i){

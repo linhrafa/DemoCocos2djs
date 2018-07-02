@@ -13,6 +13,7 @@
         "src/Resource.js",
         "src/App.js",
         "src/Enemy.js",
-        "src/Shot.js"
+        "src/Shot.js",
+        "UI.js"
     ]
 }

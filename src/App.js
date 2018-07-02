@@ -3,9 +3,12 @@ STATE_PLAYING = 0;
 STATE_GAMEOVER = 1;
 MAX_CONTAINT_WIDTH = 40;
 MAX_CONTAINT_HEIGHT = 40;
+
+//var socket = io.connect('http://localhost:3700');
+
 var bullets = [];
 var list_enemy = [];
-var enemy_scale = 0.05;
+var enemy_scale = 0.01;
 var bg_color;
 var gameLayer;
 var scrollSpeed =1;
@@ -15,6 +18,7 @@ var gravity = -0.05;
 var ship_speed = 5;
 var winSize= cc.winSize;
 var number_enemy_init = 3;
+var number_shot = 0;
 var gameScene = cc.Scene.extend({
     onEnter:function() {
         this._super();
@@ -25,8 +29,16 @@ var gameScene = cc.Scene.extend({
 });
 
 var game = cc.Layer.extend({
+
     init: function () {
+
         this._super();
+        //Network
+        var btnNetwork = gv.commonButton(200, 64, cc.winSize.width/4, yBtn,"Network");
+        this.addChild(btnNetwork);
+        btnNetwork.addClickEventListener(this.onSelectNetwork.bind(this));
+
+
         console.log("list_enemy.length" + list_enemy.length);
         bg_color = cc.LayerColor.create(new cc.Color(40, 40, 40, 255), 960, 640);
         var background = cc.Sprite.create(gameResources.bg_front_spacedust);
@@ -43,12 +55,15 @@ var game = cc.Layer.extend({
         this.schedule(this.updateeeee);
         this.schedule(this.createOrloadEnemy, 3);
 
+        this.lblLog = gv.commonText(fr.Localization.text("..."), size.width*0.4, size.height*0.05);
+        this.addChild(this.lblLog);
 
         this.addKeyboardListener();
 
     },
     updateeeee: function (dt) {
         ship.update();
+        socket.emit('send', { message: text });
         //updateShot();
 
     },
@@ -99,9 +114,14 @@ var game = cc.Layer.extend({
         //}
 
     },
-    updateShot:function(){
-        //for
-    }
+    removeShot: function(shot){
+        this.removeChild(shot);
+    },
+    onSelectNetwork:function(sender)
+    {
+        this.lblLog.setString("Start Connect!");
+        gv.gameClient.connect();
+    },
 
 }, this);
 
@@ -159,6 +179,7 @@ Ship = cc.Sprite.extend({
 
     addShot: function(){
         //console.log("add Shot");
+        var gamelayer = this.getParent();
         var shot1,shot2,shot3,shot4,shot5;
         console.log("lap lai ne");
         for (var i=0;i<5;i++){
@@ -172,15 +193,14 @@ Ship = cc.Sprite.extend({
                 scale:0.01,
 
             })
-            this.getParent().addChild(shot1);
+            number_shot++;
+            gamelayer.addChild(shot1);
         }
-    }
+    },
+
 
 
     },this);
 
-function restartGame(){
-    ship.x = 20;
-    ship.y = 300;
 
-}
+
